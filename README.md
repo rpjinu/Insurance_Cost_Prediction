@@ -126,12 +126,14 @@ The application is trained using a health insurance dataset containing the follo
     ```
 
 2.  Open the app in your browser using the URL provided by Streamlit (e.g., http://localhost:8501).
-3.  Input the required values, and the app will predict the insurance charges.
+3.  Input the required values, and the app will predict the insurance charges.\
+
 ##Deploy images
 <img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/project_deploy_image.png" width=500>
 #deployment prediction cost after input:-
 
-<img src="" width=500>
+<img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/project_deploy_imge2.png" width=500>
+
 ## Project Structure
 
 insurance-cost-prediction/
