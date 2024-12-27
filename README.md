@@ -132,13 +132,13 @@ The application is trained using a health insurance dataset containing the follo
 
 <img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/project_deploy_image.png" width=500>
 
-#deployment prediction cost after input:-
+##deployment prediction cost after input:-
 
 <img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/project_deploy_imge2.png" width=500>
 
 ## Project Structure
 
-insurance-cost-prediction/
+insurance-cost-prediction\
 ├── model.pkl              # Pre-trained Linear Regression model\
 ├── insurance.py           # Main Streamlit application script\
 ├── requirements.txt       # List of Python dependencies\
