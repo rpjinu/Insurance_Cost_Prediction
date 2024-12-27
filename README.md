@@ -1,7 +1,7 @@
 # Insurance_Cost_Prediction
 "Streamlit-based application to predict insurance costs using a trained Linear Regression model, taking user inputs like age, BMI, and region."
 
-<img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/cost_prediction.jpg"width=800>
+<img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/cost_prediction.jpg" width=800>
 # Insurance Cost Prediction with Streamlit
 
 This repository contains a Streamlit web application that predicts insurance costs based on user inputs.
