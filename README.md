@@ -127,14 +127,18 @@ The application is trained using a health insurance dataset containing the follo
 
 2.  Open the app in your browser using the URL provided by Streamlit (e.g., http://localhost:8501).
 3.  Input the required values, and the app will predict the insurance charges.
+##Deploy images
+<img src="https://github.com/rpjinu/Insurance_Cost_Prediction/blob/main/project_deploy_image.png" width=500>
+#deployment prediction cost after input:-
 
+<img src="" width=500>
 ## Project Structure
 
 insurance-cost-prediction/
-├── model.pkl              # Pre-trained Linear Regression model
-├── insurance.py           # Main Streamlit application script
-├── requirements.txt       # List of Python dependencies
-├── README.md              # Project documentation
+├── model.pkl              # Pre-trained Linear Regression model\
+├── insurance.py           # Main Streamlit application script\
+├── requirements.txt       # List of Python dependencies\
+├── README.md              # Project documentation\
 └── dataset.csv            # Original dataset (if applicable)
 
 ## Example
